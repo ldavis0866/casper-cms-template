@@ -2,4 +2,6 @@
 date: 2016-12-22T20:04:40.407Z
 title: First Post
 ---
-Tristique integer nulla, velit orci elementum posuere odit urna amet, vel est amet etiam pharetra curabitur. Risus feugiat pharetra sit dui tempor sed, malesuada metus, ut sociis elementum, placerat dolor curabitur velit. Fermentum nulla, lacus volutpat, et neque suscipit vel nisl at, suspendisse sed consectetuer in. Donec ut tellus massa, ipsum placerat tincidunt, nam nunc amet sit aenean, eleifend porttitor non fermentum. Wisi ultricies ante nec ac dignissim, in neque suscipit eu blandit et, quis imperdiet. Nulla massa velit turpis condimentum, sed vel leo magna dolor at vivamus, lorem metus odio euismod. Libero non leo. Vestibulum lacus iaculis rutrum sagittis ac, a purus, egestas turpis nulla posuere ut sed lacinia, tellus suspendisse massa et nostra. Nascetur hac, ipsum cum, sem eros, tellus suspendisse non. Netus pretium. Auctor integer ut quis urna vestibulum quis, vivamus ligula dictum vel, et amet auctor donec interdum sagittis, fusce mollis sociosqu sem aptent nullam, My first blog post!
+I’M GOING TO TALK TO YOU ABOUT SOME THINGS THAT I’VE LEARNED IN MY JOURNEY MOST FROM EXPERIENCE, SOME OF THEM I’VE HEARD IN PASSING, MANY OF THEM I’M STILL PRACTICING, BUT ALL OF THEM I DO BELIEVE ARE TRUE.
+
+LIFE IS NOT EASY! IT IS NOT! DON’T TRY TO MAKE IT THAT WAY. LIFE IS NOT FAIR, IT NEVER WAS, IT ISN’T NOW AND IT WON’T EVER BE. DO NOT FALL INTO THE TRAP, THE ENTITLEMENT TRAP OF FEELING LIKE YOU ARE A VICTIM. YOU ARE NOT. GET OVER IT AND GET ON WITH IT.
